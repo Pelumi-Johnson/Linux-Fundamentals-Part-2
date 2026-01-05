@@ -4,7 +4,7 @@
 **Date:** January 2026
 
  📄 **Full Lab Report:**  
-👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Network-Troubleshooting-Visibility-Tool-Report/blob/main/TroubleshootingAndToolReportTemplate_Edited.pdf)
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Linux-Fundamentals-Part-2/blob/main/_Linux%20Fundamentals%20Part%202.pdf)
 
 ---
 
